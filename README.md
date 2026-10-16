@@ -31,7 +31,7 @@ Gold-Price-Prediction/
 
 ⚙️ Installation and Setup
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Afreen-2001/Gold-_Price-_Prediction-_in-_India.git
 
 
 Navigate to the project directory:
